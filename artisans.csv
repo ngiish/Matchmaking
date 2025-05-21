@@ -1,0 +1,6 @@
+id,name,skills,rating,lat,long,responseTime
+1,Jane,"['plumbing', 'electrical']",4.7,-1.2921,36.8219,30
+2,John,"['carpentry']",4.2,-1.3032,36.8012,45
+3,Alice,"['plumbing']",4.9,-1.2800,36.8300,20
+4,Bob,"['electrical']",4.0,-1.2950,36.8150,40
+5,Mary,"['plumbing', 'carpentry']",4.5,-1.2870,36.8250,25
