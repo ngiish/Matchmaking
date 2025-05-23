@@ -1,14 +1,46 @@
 <!DOCTYPE html>
-<html>
-<head><title>JaGedo Matchmaking</title></head>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>JaGedo Matchmaking</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}" />
+</head>
 <body>
-    <h1>Find Professionals</h1>
-    <form id="matchForm">
-        <label>Job Type: <input type="text" id="jobType" required></label><br>
-        <label>Location (County): <input type="text" id="location" value="Nairobi" required></label><br>
-        <button type="submit">Search</button>
+  <header>
+    JaGedo Matchmaking
+  </header>
+  <main>
+    <form id="filterForm" aria-label="Filter user searches">
+      <label for="jobType">Job Type:</label>
+      <select id="jobType" name="jobType" required>
+        <option value="" disabled selected>-- Select Job Type --</option>
+        <option value="Construction Manager">Construction Manager</option>
+        <option value="Project Manager">Project Manager</option>
+        <option value="Architect">Architect</option>
+        <option value="Water Engineer">Water Engineer</option>
+        <option value="Roads Engineer">Roads Engineer</option>
+        <option value="Structural Engineer">Structural Engineer</option>
+        <option value="Mechanical Engineer">Mechanical Engineer</option>
+        <option value="Contractor">Contractor</option>
+        <option value="Plumber">Plumber</option>
+        <option value="Fundi">Fundi</option>
+      </select>
+      <label for="location">Location (County):</label>
+      <input type="text" id="location" name="location" list="locationSuggestions" placeholder="Enter a county (e.g., Nairobi)" required />
+      <datalist id="locationSuggestions">
+        <!-- Populated dynamically by script.js -->
+      </datalist>
     </form>
-    <div id="results"></div>
-    <script src="{{ url_for('static', filename='script.js') }}"></script>
+    
+    <div class="summary" id="summaryText">
+      Select a job type and enter a location to find professionals.
+    </div>
+    <section class="results-section" id="searchResults">
+      <p class="empty-state">No data to display.</p>
+    </section>
+  </main>
+
+  <script src="{{ url_for('static', filename='script.js') }}"></script>
 </body>
 </html>
