@@ -1,0 +1,301 @@
+Name,Profession,Gender,County,Rating,Response Time,Customer Satisfaction,Response Time Encoded,Customer Satisfaction Encoded
+Professional_001,Roads Engineer,Prefer not to say,Busia,2,4–5 hours,Good,3.0,2
+Professional_002,Geotechnical Engineer,Female,Nyamira,2,Below 1 hour,Fair,1.0,1
+Professional_003,Hydrologist,Prefer not to say,Kilifi,3,2–3 hours,Excellent,2.0,3
+Professional_004,Safety Officer,Male,Marsabit,4,4–5 hours,Excellent,3.0,3
+Professional_005,Safety Officer,Male,Kericho,3,Below 1 hour,Bad,1.0,0
+Professional_006,Geologist,Female,Kakamega,3,6–10 hours,Good,4.0,2
+Professional_007,Hydrologist,Prefer not to say,Vihiga,3,4–5 hours,Bad,3.0,0
+Professional_008,Roads Engineer,Male,Vihiga,5,4–5 hours,Good,3.0,2
+Professional_009,Environmental Officer,Prefer not to say,HomaBay,4,6–10 hours,Fair,4.0,1
+Professional_010,Roads Engineer,Prefer not to say,TharakaNithi,4,2–3 hours,Fair,2.0,1
+Professional_011,Geologist,Prefer not to say,TanaRiver,4,Below 1 hour,Bad,1.0,0
+Professional_012,Land Surveyor,Male,Turkana,5,6–10 hours,Fair,4.0,1
+Professional_013,Structural Engineer,Female,Wajir,5,2–3 hours,Bad,2.0,0
+Professional_014,Structural Engineer,Female,Narok,4,Above 12 hours,Good,,2
+Professional_015,Interior Designer,Female,Kitui,4,2–3 hours,Fair,2.0,1
+Professional_016,Roads Engineer,Male,Turkana,3,Below 1 hour,Bad,1.0,0
+Professional_017,Topo Surveyor,Female,Marsabit,5,2–3 hours,Good,2.0,2
+Professional_018,Quantity Surveyor,Prefer not to say,TransNzoia,2,2–3 hours,Fair,2.0,1
+Professional_019,Construction Manager,Female,Baringo,4,4–5 hours,Bad,3.0,0
+Professional_020,Geotechnical Engineer,Female,Turkana,2,6–10 hours,Good,4.0,2
+Professional_021,Geologist,Prefer not to say,Garissa,1,6–10 hours,Bad,4.0,0
+Professional_022,Project Manager,Prefer not to say,Nandi,1,4–5 hours,Good,3.0,2
+Professional_023,Mechanical Engineer,Prefer not to say,HomaBay,4,4–5 hours,Good,3.0,2
+Professional_024,Landscape Architect,Female,Nairobi,3,6–10 hours,Excellent,4.0,3
+Professional_025,Construction Manager,Prefer not to say,TransNzoia,3,4–5 hours,Good,3.0,2
+Professional_026,Mechanical Engineer,Male,Kericho,5,Above 12 hours,Fair,,1
+Professional_027,Topo Surveyor,Female,UasinGishu,1,4–5 hours,Bad,3.0,0
+Professional_028,Topo Surveyor,Prefer not to say,TharakaNithi,2,Below 1 hour,Bad,1.0,0
+Professional_029,Roads Engineer,Female,Isiolo,5,4–5 hours,Excellent,3.0,3
+Professional_030,Water Engineer,Male,Kisii,1,2–3 hours,Bad,2.0,0
+Professional_031,Land Surveyor,Prefer not to say,Wajir,3,Below 1 hour,Fair,1.0,1
+Professional_032,Structural Engineer,Female,Mombasa,2,Above 12 hours,Excellent,,3
+Professional_033,Safety Officer,Male,TaitaTaveta,3,4–5 hours,Fair,3.0,1
+Professional_034,Landscape Architect,Male,Machakos,4,Below 1 hour,Bad,1.0,0
+Professional_035,Geotechnical Engineer,Male,Kilifi,1,Below 1 hour,Good,1.0,2
+Professional_036,Roads Engineer,Male,Mandera,1,4–5 hours,Good,3.0,2
+Professional_037,Topo Surveyor,Female,Mombasa,3,4–5 hours,Fair,3.0,1
+Professional_038,Roads Engineer,Female,Nairobi,1,6–10 hours,Fair,4.0,1
+Professional_039,Hydrologist,Prefer not to say,Siaya,4,Below 1 hour,Fair,1.0,1
+Professional_040,Landscape Architect,Female,Nyamira,3,4–5 hours,Excellent,3.0,3
+Professional_041,Roads Engineer,Female,TaitaTaveta,3,2–3 hours,Excellent,2.0,3
+Professional_042,Safety Officer,Prefer not to say,Lamu,4,6–10 hours,Fair,4.0,1
+Professional_043,Safety Officer,Prefer not to say,Kilifi,3,Above 12 hours,Excellent,,3
+Professional_044,Safety Officer,Prefer not to say,Kisumu,4,4–5 hours,Bad,3.0,0
+Professional_045,Project Manager,Prefer not to say,Laikipia,2,Above 12 hours,Bad,,0
+Professional_046,Mechanical Engineer,Male,Narok,2,2–3 hours,Fair,2.0,1
+Professional_047,Environmental Officer,Male,Machakos,4,4–5 hours,Good,3.0,2
+Professional_048,Landscape Architect,Prefer not to say,Marsabit,4,6–10 hours,Excellent,4.0,3
+Professional_049,Topo Surveyor,Male,Kilifi,2,4–5 hours,Bad,3.0,0
+Professional_050,Construction Manager,Male,Migori,5,Below 1 hour,Bad,1.0,0
+Professional_051,Geotechnical Engineer,Male,Turkana,3,Above 12 hours,Good,,2
+Professional_052,Project Manager,Prefer not to say,Kericho,5,2–3 hours,Good,2.0,2
+Professional_053,Safety Officer,Female,TransNzoia,2,2–3 hours,Excellent,2.0,3
+Professional_054,Interior Designer,Male,Samburu,4,Above 12 hours,Bad,,0
+Professional_055,Geologist,Female,Wajir,3,6–10 hours,Excellent,4.0,3
+Professional_056,Geotechnical Engineer,Female,Marsabit,4,Above 12 hours,Fair,,1
+Professional_057,Geotechnical Engineer,Female,Isiolo,5,2–3 hours,Excellent,2.0,3
+Professional_058,Geotechnical Engineer,Male,Kericho,2,4–5 hours,Fair,3.0,1
+Professional_059,Hydrologist,Prefer not to say,Kilifi,5,4–5 hours,Bad,3.0,0
+Professional_060,Architect,Female,Kwale,1,6–10 hours,Excellent,4.0,3
+Professional_061,Landscape Architect,Prefer not to say,Turkana,2,2–3 hours,Good,2.0,2
+Professional_062,Environmental Officer,Female,Nyandarua,2,6–10 hours,Bad,4.0,0
+Professional_063,Architect,Prefer not to say,Laikipia,4,4–5 hours,Good,3.0,2
+Professional_064,Project Manager,Prefer not to say,Nyamira,5,Below 1 hour,Bad,1.0,0
+Professional_065,Electrical Engineer,Male,Migori,2,4–5 hours,Bad,3.0,0
+Professional_066,Mechanical Engineer,Female,Nyandarua,4,Above 12 hours,Fair,,1
+Professional_067,Mechanical Engineer,Male,Migori,2,2–3 hours,Fair,2.0,1
+Professional_068,Safety Officer,Female,TharakaNithi,5,4–5 hours,Excellent,3.0,3
+Professional_069,Interior Designer,Female,Busia,3,2–3 hours,Bad,2.0,0
+Professional_070,Structural Engineer,Female,Siaya,2,Above 12 hours,Good,,2
+Professional_071,Project Manager,Female,TanaRiver,1,Below 1 hour,Bad,1.0,0
+Professional_072,Geotechnical Engineer,Prefer not to say,TransNzoia,4,Below 1 hour,Excellent,1.0,3
+Professional_073,Environmental Officer,Female,Busia,4,6–10 hours,Bad,4.0,0
+Professional_074,Electrical Engineer,Male,Kilifi,5,6–10 hours,Fair,4.0,1
+Professional_075,Landscape Architect,Prefer not to say,Muranga,2,4–5 hours,Bad,3.0,0
+Professional_076,Electrical Engineer,Male,Kiambu,5,4–5 hours,Good,3.0,2
+Professional_077,Geotechnical Engineer,Male,Machakos,1,2–3 hours,Good,2.0,2
+Professional_078,Construction Manager,Female,Mombasa,2,2–3 hours,Good,2.0,2
+Professional_079,Land Surveyor,Female,Garissa,3,Above 12 hours,Good,,2
+Professional_080,Geotechnical Engineer,Female,Isiolo,1,2–3 hours,Excellent,2.0,3
+Professional_081,Project Manager,Male,TanaRiver,1,Above 12 hours,Bad,,0
+Professional_082,Safety Officer,Female,Kisii,5,Above 12 hours,Excellent,,3
+Professional_083,Mechanical Engineer,Male,Kiambu,2,Above 12 hours,Excellent,,3
+Professional_084,Geologist,Female,UasinGishu,4,6–10 hours,Fair,4.0,1
+Professional_085,Land Surveyor,Prefer not to say,Bungoma,4,Below 1 hour,Good,1.0,2
+Professional_086,Project Manager,Female,Kisumu,2,4–5 hours,Bad,3.0,0
+Professional_087,Construction Manager,Female,Narok,1,4–5 hours,Fair,3.0,1
+Professional_088,Water Engineer,Prefer not to say,Kericho,1,Below 1 hour,Fair,1.0,1
+Professional_089,Safety Officer,Female,Narok,3,4–5 hours,Good,3.0,2
+Professional_090,Environmental Officer,Female,Kericho,3,Below 1 hour,Excellent,1.0,3
+Professional_091,Interior Designer,Prefer not to say,Bungoma,1,4–5 hours,Bad,3.0,0
+Professional_092,Interior Designer,Male,Garissa,1,4–5 hours,Good,3.0,2
+Professional_093,Electrical Engineer,Male,Baringo,3,6–10 hours,Excellent,4.0,3
+Professional_094,Project Manager,Prefer not to say,Kakamega,4,2–3 hours,Fair,2.0,1
+Professional_095,Interior Designer,Male,TharakaNithi,3,Above 12 hours,Good,,2
+Professional_096,Landscape Architect,Male,Makueni,5,6–10 hours,Excellent,4.0,3
+Professional_097,Construction Manager,Female,Vihiga,3,6–10 hours,Good,4.0,2
+Professional_098,Electrical Engineer,Prefer not to say,Wajir,4,Below 1 hour,Bad,1.0,0
+Professional_099,Structural Engineer,Prefer not to say,Kirinyaga,3,6–10 hours,Excellent,4.0,3
+Professional_100,Structural Engineer,Prefer not to say,Kiambu,3,4–5 hours,Excellent,3.0,3
+Professional_101,Structural Engineer,Female,Meru,5,Above 12 hours,Fair,,1
+Professional_102,Quantity Surveyor,Female,Kisii,5,6–10 hours,Excellent,4.0,3
+Professional_103,Roads Engineer,Prefer not to say,Muranga,5,2–3 hours,Bad,2.0,0
+Professional_104,Interior Designer,Male,Siaya,3,6–10 hours,Fair,4.0,1
+Professional_105,Geologist,Male,Samburu,3,Below 1 hour,Bad,1.0,0
+Professional_106,Roads Engineer,Male,Muranga,5,Below 1 hour,Good,1.0,2
+Professional_107,Hydrologist,Male,Kericho,1,4–5 hours,Good,3.0,2
+Professional_108,Hydrologist,Prefer not to say,Samburu,5,6–10 hours,Bad,4.0,0
+Professional_109,Quantity Surveyor,Male,Migori,5,Above 12 hours,Bad,,0
+Professional_110,Construction Manager,Male,Kericho,4,6–10 hours,Bad,4.0,0
+Professional_111,Roads Engineer,Female,Mombasa,1,Above 12 hours,Fair,,1
+Professional_112,Electrical Engineer,Female,TanaRiver,3,Below 1 hour,Excellent,1.0,3
+Professional_113,Geotechnical Engineer,Prefer not to say,Makueni,2,2–3 hours,Fair,2.0,1
+Professional_114,Roads Engineer,Female,Meru,5,Below 1 hour,Good,1.0,2
+Professional_115,Land Surveyor,Prefer not to say,TharakaNithi,3,4–5 hours,Good,3.0,2
+Professional_116,Water Engineer,Female,Kakamega,2,4–5 hours,Excellent,3.0,3
+Professional_117,Electrical Engineer,Male,UasinGishu,3,6–10 hours,Good,4.0,2
+Professional_118,Electrical Engineer,Male,TransNzoia,5,Below 1 hour,Good,1.0,2
+Professional_119,Architect,Female,Muranga,5,Above 12 hours,Bad,,0
+Professional_120,Electrical Engineer,Male,Muranga,1,6–10 hours,Fair,4.0,1
+Professional_121,Geotechnical Engineer,Female,Embu,1,4–5 hours,Excellent,3.0,3
+Professional_122,Structural Engineer,Male,Kajiado,1,6–10 hours,Excellent,4.0,3
+Professional_123,Landscape Architect,Male,Kwale,5,4–5 hours,Excellent,3.0,3
+Professional_124,Construction Manager,Prefer not to say,Turkana,3,Below 1 hour,Bad,1.0,0
+Professional_125,Architect,Male,Kakamega,3,Above 12 hours,Good,,2
+Professional_126,Hydrologist,Prefer not to say,Kajiado,1,4–5 hours,Fair,3.0,1
+Professional_127,Hydrologist,Prefer not to say,Nandi,3,2–3 hours,Bad,2.0,0
+Professional_128,Mechanical Engineer,Female,Kirinyaga,5,Above 12 hours,Good,,2
+Professional_129,Landscape Architect,Male,Wajir,5,2–3 hours,Good,2.0,2
+Professional_130,Land Surveyor,Male,Kilifi,3,6–10 hours,Good,4.0,2
+Professional_131,Water Engineer,Male,Kwale,2,6–10 hours,Good,4.0,2
+Professional_132,Topo Surveyor,Female,Kitui,5,Below 1 hour,Good,1.0,2
+Professional_133,Landscape Architect,Prefer not to say,Turkana,2,4–5 hours,Excellent,3.0,3
+Professional_134,Roads Engineer,Male,Kitui,5,Above 12 hours,Fair,,1
+Professional_135,Roads Engineer,Female,Kitui,3,Above 12 hours,Excellent,,3
+Professional_136,Geologist,Prefer not to say,Samburu,5,4–5 hours,Fair,3.0,1
+Professional_137,Geologist,Male,Kiambu,1,2–3 hours,Good,2.0,2
+Professional_138,Structural Engineer,Female,Nyamira,5,6–10 hours,Excellent,4.0,3
+Professional_139,Hydrologist,Prefer not to say,Kajiado,1,4–5 hours,Excellent,3.0,3
+Professional_140,Roads Engineer,Prefer not to say,Lamu,1,4–5 hours,Fair,3.0,1
+Professional_141,Geologist,Prefer not to say,Nakuru,3,4–5 hours,Bad,3.0,0
+Professional_142,Geotechnical Engineer,Prefer not to say,TanaRiver,1,Above 12 hours,Good,,2
+Professional_143,Architect,Female,UasinGishu,4,Below 1 hour,Good,1.0,2
+Professional_144,Structural Engineer,Female,Lamu,1,6–10 hours,Bad,4.0,0
+Professional_145,Safety Officer,Male,Nyeri,4,Below 1 hour,Fair,1.0,1
+Professional_146,Architect,Female,WestPokot,2,Above 12 hours,Fair,,1
+Professional_147,Architect,Female,HomaBay,5,6–10 hours,Excellent,4.0,3
+Professional_148,Architect,Prefer not to say,Meru,4,2–3 hours,Excellent,2.0,3
+Professional_149,Safety Officer,Prefer not to say,TharakaNithi,1,2–3 hours,Excellent,2.0,3
+Professional_150,Land Surveyor,Prefer not to say,TaitaTaveta,2,Above 12 hours,Fair,,1
+Professional_151,Safety Officer,Male,Busia,3,4–5 hours,Fair,3.0,1
+Professional_152,Geologist,Prefer not to say,Vihiga,5,Above 12 hours,Bad,,0
+Professional_153,Topo Surveyor,Female,Kitui,2,Below 1 hour,Fair,1.0,1
+Professional_154,Construction Manager,Prefer not to say,WestPokot,5,4–5 hours,Excellent,3.0,3
+Professional_155,Geotechnical Engineer,Prefer not to say,Kitui,5,Below 1 hour,Bad,1.0,0
+Professional_156,Hydrologist,Prefer not to say,Nakuru,3,2–3 hours,Bad,2.0,0
+Professional_157,Environmental Officer,Male,Baringo,1,Below 1 hour,Bad,1.0,0
+Professional_158,Topo Surveyor,Female,Nyandarua,5,Below 1 hour,Good,1.0,2
+Professional_159,Landscape Architect,Female,Embu,1,Below 1 hour,Excellent,1.0,3
+Professional_160,Construction Manager,Male,Kiambu,4,Above 12 hours,Excellent,,3
+Professional_161,Land Surveyor,Male,Isiolo,2,6–10 hours,Bad,4.0,0
+Professional_162,Geotechnical Engineer,Prefer not to say,Lamu,1,Above 12 hours,Fair,,1
+Professional_163,Safety Officer,Prefer not to say,Nyamira,3,Above 12 hours,Good,,2
+Professional_164,Geotechnical Engineer,Male,Busia,2,4–5 hours,Fair,3.0,1
+Professional_165,Electrical Engineer,Prefer not to say,Nyeri,4,2–3 hours,Bad,2.0,0
+Professional_166,Geologist,Male,Nandi,5,4–5 hours,Fair,3.0,1
+Professional_167,Mechanical Engineer,Female,Samburu,4,Above 12 hours,Bad,,0
+Professional_168,Land Surveyor,Female,Muranga,1,4–5 hours,Good,3.0,2
+Professional_169,Safety Officer,Female,Muranga,5,4–5 hours,Good,3.0,2
+Professional_170,Geotechnical Engineer,Prefer not to say,Kericho,2,Above 12 hours,Excellent,,3
+Professional_171,Geotechnical Engineer,Female,TaitaTaveta,5,Above 12 hours,Bad,,0
+Professional_172,Safety Officer,Prefer not to say,TaitaTaveta,4,4–5 hours,Fair,3.0,1
+Professional_173,Construction Manager,Female,Mandera,3,Below 1 hour,Fair,1.0,1
+Professional_174,Electrical Engineer,Prefer not to say,Muranga,4,Below 1 hour,Good,1.0,2
+Professional_175,Water Engineer,Female,TaitaTaveta,2,4–5 hours,Fair,3.0,1
+Professional_176,Safety Officer,Male,Lamu,1,2–3 hours,Bad,2.0,0
+Professional_177,Electrical Engineer,Prefer not to say,Kitui,4,4–5 hours,Excellent,3.0,3
+Professional_178,Geotechnical Engineer,Prefer not to say,Wajir,1,6–10 hours,Bad,4.0,0
+Professional_179,Electrical Engineer,Female,Meru,5,6–10 hours,Bad,4.0,0
+Professional_180,Topo Surveyor,Female,Meru,5,Below 1 hour,Excellent,1.0,3
+Professional_181,Mechanical Engineer,Female,Machakos,3,2–3 hours,Good,2.0,2
+Professional_182,Land Surveyor,Female,Kitui,4,Above 12 hours,Excellent,,3
+Professional_183,Water Engineer,Male,Nakuru,2,2–3 hours,Fair,2.0,1
+Professional_184,Land Surveyor,Female,Narok,4,4–5 hours,Excellent,3.0,3
+Professional_185,Mechanical Engineer,Female,Kwale,4,Below 1 hour,Good,1.0,2
+Professional_186,Interior Designer,Prefer not to say,Migori,2,Above 12 hours,Bad,,0
+Professional_187,Environmental Officer,Male,Busia,4,6–10 hours,Bad,4.0,0
+Professional_188,Geologist,Male,Nairobi,4,Above 12 hours,Excellent,,3
+Professional_189,Roads Engineer,Prefer not to say,Kirinyaga,2,2–3 hours,Bad,2.0,0
+Professional_190,Project Manager,Female,Bungoma,4,Above 12 hours,Fair,,1
+Professional_191,Water Engineer,Prefer not to say,Nakuru,3,2–3 hours,Fair,2.0,1
+Professional_192,Quantity Surveyor,Male,Machakos,2,2–3 hours,Bad,2.0,0
+Professional_193,Interior Designer,Male,Kiambu,5,2–3 hours,Bad,2.0,0
+Professional_194,Hydrologist,Male,Baringo,2,Below 1 hour,Excellent,1.0,3
+Professional_195,Hydrologist,Male,Nairobi,5,2–3 hours,Bad,2.0,0
+Professional_196,Land Surveyor,Female,Nyandarua,5,6–10 hours,Fair,4.0,1
+Professional_197,Geotechnical Engineer,Female,Wajir,3,4–5 hours,Bad,3.0,0
+Professional_198,Project Manager,Male,Vihiga,4,Below 1 hour,Bad,1.0,0
+Professional_199,Geotechnical Engineer,Male,Embu,2,Above 12 hours,Excellent,,3
+Professional_200,Interior Designer,Male,Machakos,4,2–3 hours,Good,2.0,2
+Professional_201,Construction Manager,Male,Mandera,1,Above 12 hours,Excellent,,3
+Professional_202,Safety Officer,Female,Siaya,1,Below 1 hour,Good,1.0,2
+Professional_203,Water Engineer,Male,Mandera,3,2–3 hours,Bad,2.0,0
+Professional_204,Mechanical Engineer,Female,Garissa,3,Below 1 hour,Bad,1.0,0
+Professional_205,Land Surveyor,Female,HomaBay,2,Below 1 hour,Excellent,1.0,3
+Professional_206,Interior Designer,Male,Vihiga,2,2–3 hours,Fair,2.0,1
+Professional_207,Interior Designer,Male,Nyeri,4,6–10 hours,Excellent,4.0,3
+Professional_208,Project Manager,Female,Nyeri,4,6–10 hours,Good,4.0,2
+Professional_209,Safety Officer,Prefer not to say,Kajiado,4,Below 1 hour,Good,1.0,2
+Professional_210,Interior Designer,Male,Nyamira,5,Above 12 hours,Bad,,0
+Professional_211,Water Engineer,Prefer not to say,Machakos,1,4–5 hours,Fair,3.0,1
+Professional_212,Interior Designer,Female,Garissa,2,4–5 hours,Fair,3.0,1
+Professional_213,Geologist,Male,Wajir,2,2–3 hours,Excellent,2.0,3
+Professional_214,Topo Surveyor,Prefer not to say,WestPokot,2,4–5 hours,Good,3.0,2
+Professional_215,Structural Engineer,Male,Nyandarua,4,Above 12 hours,Excellent,,3
+Professional_216,Quantity Surveyor,Prefer not to say,Kisii,5,Below 1 hour,Fair,1.0,1
+Professional_217,Water Engineer,Prefer not to say,Busia,1,4–5 hours,Good,3.0,2
+Professional_218,Quantity Surveyor,Male,UasinGishu,5,6–10 hours,Bad,4.0,0
+Professional_219,Construction Manager,Female,Kakamega,4,6–10 hours,Good,4.0,2
+Professional_220,Roads Engineer,Prefer not to say,TaitaTaveta,3,Below 1 hour,Excellent,1.0,3
+Professional_221,Geotechnical Engineer,Prefer not to say,Mandera,1,6–10 hours,Good,4.0,2
+Professional_222,Roads Engineer,Prefer not to say,Wajir,5,Above 12 hours,Bad,,0
+Professional_223,Hydrologist,Female,Kilifi,2,4–5 hours,Bad,3.0,0
+Professional_224,Quantity Surveyor,Male,HomaBay,1,Below 1 hour,Bad,1.0,0
+Professional_225,Land Surveyor,Female,Kirinyaga,3,4–5 hours,Good,3.0,2
+Professional_226,Water Engineer,Prefer not to say,Kirinyaga,2,2–3 hours,Good,2.0,2
+Professional_227,Construction Manager,Male,Mombasa,5,6–10 hours,Bad,4.0,0
+Professional_228,Topo Surveyor,Prefer not to say,Meru,5,Above 12 hours,Excellent,,3
+Professional_229,Topo Surveyor,Prefer not to say,Isiolo,1,6–10 hours,Excellent,4.0,3
+Professional_230,Construction Manager,Prefer not to say,UasinGishu,5,Below 1 hour,Bad,1.0,0
+Professional_231,Safety Officer,Male,Siaya,1,Below 1 hour,Excellent,1.0,3
+Professional_232,Quantity Surveyor,Prefer not to say,Nyeri,5,Above 12 hours,Fair,,1
+Professional_233,Environmental Officer,Female,Muranga,1,6–10 hours,Fair,4.0,1
+Professional_234,Project Manager,Male,Kakamega,3,2–3 hours,Excellent,2.0,3
+Professional_235,Landscape Architect,Male,Bungoma,2,Below 1 hour,Bad,1.0,0
+Professional_236,Hydrologist,Female,Baringo,1,6–10 hours,Good,4.0,2
+Professional_237,Hydrologist,Prefer not to say,TanaRiver,5,Below 1 hour,Excellent,1.0,3
+Professional_238,Safety Officer,Female,Bungoma,4,2–3 hours,Fair,2.0,1
+Professional_239,Roads Engineer,Female,Nandi,5,Above 12 hours,Good,,2
+Professional_240,Roads Engineer,Male,Isiolo,5,4–5 hours,Excellent,3.0,3
+Professional_241,Structural Engineer,Prefer not to say,Nyandarua,4,6–10 hours,Fair,4.0,1
+Professional_242,Environmental Officer,Female,Isiolo,4,Below 1 hour,Fair,1.0,1
+Professional_243,Architect,Male,Narok,1,4–5 hours,Excellent,3.0,3
+Professional_244,Structural Engineer,Male,Muranga,2,6–10 hours,Bad,4.0,0
+Professional_245,Safety Officer,Female,Nakuru,3,Below 1 hour,Bad,1.0,0
+Professional_246,Geologist,Female,Bungoma,1,Below 1 hour,Bad,1.0,0
+Professional_247,Quantity Surveyor,Prefer not to say,Kitui,4,2–3 hours,Excellent,2.0,3
+Professional_248,Hydrologist,Prefer not to say,Kisii,1,2–3 hours,Bad,2.0,0
+Professional_249,Mechanical Engineer,Female,Kisii,2,Above 12 hours,Excellent,,3
+Professional_250,Roads Engineer,Male,Nairobi,5,6–10 hours,Fair,4.0,1
+Professional_251,Interior Designer,Prefer not to say,Garissa,4,4–5 hours,Excellent,3.0,3
+Professional_252,Environmental Officer,Male,Isiolo,1,Above 12 hours,Good,,2
+Professional_253,Interior Designer,Prefer not to say,Marsabit,4,2–3 hours,Fair,2.0,1
+Professional_254,Landscape Architect,Prefer not to say,UasinGishu,3,6–10 hours,Good,4.0,2
+Professional_255,Land Surveyor,Female,Nairobi,5,6–10 hours,Fair,4.0,1
+Professional_256,Project Manager,Male,Makueni,5,4–5 hours,Good,3.0,2
+Professional_257,Landscape Architect,Male,Mandera,4,2–3 hours,Fair,2.0,1
+Professional_258,Quantity Surveyor,Female,TaitaTaveta,3,4–5 hours,Fair,3.0,1
+Professional_259,Land Surveyor,Male,Wajir,1,6–10 hours,Excellent,4.0,3
+Professional_260,Construction Manager,Male,Muranga,3,2–3 hours,Bad,2.0,0
+Professional_261,Quantity Surveyor,Prefer not to say,Garissa,5,2–3 hours,Bad,2.0,0
+Professional_262,Safety Officer,Female,Turkana,5,6–10 hours,Fair,4.0,1
+Professional_263,Structural Engineer,Prefer not to say,Narok,4,6–10 hours,Bad,4.0,0
+Professional_264,Electrical Engineer,Prefer not to say,Nakuru,2,Above 12 hours,Good,,2
+Professional_265,Structural Engineer,Male,HomaBay,1,4–5 hours,Good,3.0,2
+Professional_266,Roads Engineer,Male,Samburu,1,Below 1 hour,Excellent,1.0,3
+Professional_267,Architect,Prefer not to say,Wajir,3,Above 12 hours,Good,,2
+Professional_268,Geotechnical Engineer,Female,Kiambu,2,6–10 hours,Excellent,4.0,3
+Professional_269,Hydrologist,Female,Wajir,1,4–5 hours,Bad,3.0,0
+Professional_270,Project Manager,Female,Lamu,4,Above 12 hours,Good,,2
+Professional_271,Quantity Surveyor,Prefer not to say,Machakos,4,2–3 hours,Excellent,2.0,3
+Professional_272,Electrical Engineer,Male,Kiambu,3,2–3 hours,Good,2.0,2
+Professional_273,Structural Engineer,Male,Nyeri,2,Below 1 hour,Excellent,1.0,3
+Professional_274,Interior Designer,Male,TharakaNithi,3,6–10 hours,Excellent,4.0,3
+Professional_275,Electrical Engineer,Male,Meru,2,Below 1 hour,Excellent,1.0,3
+Professional_276,Safety Officer,Male,Kisii,1,Below 1 hour,Good,1.0,2
+Professional_277,Land Surveyor,Male,Laikipia,2,4–5 hours,Good,3.0,2
+Professional_278,Electrical Engineer,Female,Kakamega,5,Below 1 hour,Fair,1.0,1
+Professional_279,Mechanical Engineer,Prefer not to say,Baringo,1,Below 1 hour,Bad,1.0,0
+Professional_280,Roads Engineer,Female,Nyamira,2,Below 1 hour,Bad,1.0,0
+Professional_281,Topo Surveyor,Prefer not to say,Kisumu,3,2–3 hours,Fair,2.0,1
+Professional_282,Quantity Surveyor,Male,WestPokot,4,Above 12 hours,Good,,2
+Professional_283,Construction Manager,Female,Machakos,4,Below 1 hour,Fair,1.0,1
+Professional_284,Roads Engineer,Male,Siaya,5,Above 12 hours,Fair,,1
+Professional_285,Geologist,Female,Busia,5,2–3 hours,Bad,2.0,0
+Professional_286,Project Manager,Female,Kajiado,3,2–3 hours,Fair,2.0,1
+Professional_287,Hydrologist,Male,Laikipia,1,6–10 hours,Excellent,4.0,3
+Professional_288,Landscape Architect,Prefer not to say,Makueni,5,Below 1 hour,Bad,1.0,0
+Professional_289,Structural Engineer,Female,Isiolo,1,Below 1 hour,Fair,1.0,1
+Professional_290,Roads Engineer,Male,Marsabit,3,6–10 hours,Excellent,4.0,3
+Professional_291,Hydrologist,Female,WestPokot,3,4–5 hours,Good,3.0,2
+Professional_292,Water Engineer,Male,Kwale,2,4–5 hours,Excellent,3.0,3
+Professional_293,Land Surveyor,Male,Marsabit,2,Above 12 hours,Bad,,0
+Professional_294,Geologist,Male,HomaBay,2,4–5 hours,Bad,3.0,0
+Professional_295,Architect,Female,Migori,2,6–10 hours,Good,4.0,2
+Professional_296,Electrical Engineer,Male,TransNzoia,2,6–10 hours,Good,4.0,2
+Professional_297,Roads Engineer,Male,Baringo,4,Below 1 hour,Bad,1.0,0
+Professional_298,Environmental Officer,Female,Bomet,5,4–5 hours,Excellent,3.0,3
+Professional_299,Construction Manager,Prefer not to say,Kericho,3,Above 12 hours,Excellent,,3
+Professional_300,Geotechnical Engineer,Prefer not to say,Busia,3,Above 12 hours,Excellent,,3

@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head><title>JaGedo Matchmaking</title></head>
+<body>
+    <h1>Find Professionals</h1>
+    <form id="matchForm">
+        <label>Job Type: <input type="text" id="jobType" required></label><br>
+        <label>Location (County): <input type="text" id="location" value="Nairobi" required></label><br>
+        <button type="submit">Search</button>
+    </form>
+    <div id="results"></div>
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>

@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head><title>Results</title></head>
+<body>
+    <h1>Artisan Results</h1>
+    {% if artisans %}
+        <ul>
+        {% for artisan in artisans %}
+            <li>{{ artisan.name }} - {{ artisan.skills }} - Rating: {{ artisan.rating }} - Distance: {{ artisan.distance }} km - {{ 'Available' if artisan.available else 'Busy' }}</li>
+        {% endfor %}
+        </ul>
+    {% else %}
+        <p>No artisans found.</p>
+    {% endif %}
+    <a href="/">Back</a>
+</body>
+</html>

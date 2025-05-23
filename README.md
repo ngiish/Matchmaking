@@ -14,6 +14,12 @@ If you’re using a virtual environment (recommended):
 Confirm activation (prompt should show (venv)):
  which python
 
+Reinstall Virtual Environment: If the environment is corrupted, recreate it:
+ rm -rf venv
+ python -m venv venv
+ source venv/bin/activate
+ pip install scikit-learn flask flask-talisman pandas firebase-admin
+
 Set Environment Variables:
 In your terminal (ensure virtual environment is active: source venv/bin/activate):
 export FIREBASE_CRED_PATH="/home/ngish/Documents/JaGedo Hackathon/JaGedoMatchMaking/firebase-credentials.json"
