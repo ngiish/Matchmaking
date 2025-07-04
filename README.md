@@ -41,3 +41,13 @@ flask             2.0.1
 flask-limiter     3.5.0
 flask-talisman    1.0.0
 werkzeug          2.0.3
+
+
+Compile SCSS to CSS:
+-Install a Sass compiler. Use Node.js and run:
+
+ npm install -g sass
+
+-Compile the file:
+
+ sass static/styles.scss static/styles.css --watch

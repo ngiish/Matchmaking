@@ -3,44 +3,44 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>JaGedo Matchmaking</title>
+  <title>Professionals Matchmaking</title>
   <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}" />
 </head>
 <body>
   <header>
-    JaGedo Matchmaking
+    Professionals Matchmaking
   </header>
   <main>
-    <form id="filterForm" aria-label="Filter user searches">
-      <label for="jobType">Job Type:</label>
-      <select id="jobType" name="jobType" required>
-        <option value="" disabled selected>-- Select Job Type --</option>
-        <option value="Construction Manager">Construction Manager</option>
-        <option value="Project Manager">Project Manager</option>
-        <option value="Architect">Architect</option>
-        <option value="Water Engineer">Water Engineer</option>
-        <option value="Roads Engineer">Roads Engineer</option>
-        <option value="Structural Engineer">Structural Engineer</option>
-        <option value="Mechanical Engineer">Mechanical Engineer</option>
-        <option value="Contractor">Contractor</option>
-        <option value="Plumber">Plumber</option>
-        <option value="Fundi">Fundi</option>
-      </select>
-      <label for="location">Location (County):</label>
-      <input type="text" id="location" name="location" list="locationSuggestions" placeholder="Enter a county (e.g., Nairobi)" required />
-      <datalist id="locationSuggestions">
-        <!-- Populated dynamically by script.js -->
-      </datalist>
-    </form>
-    
-    <div class="summary" id="summaryText">
+    <div class="form-container">
+      <form id="filterForm" aria-label="Filter user searches">
+        <label for="jobType" class="form-label">Job Type:</label>
+        <select id="jobType" name="jobType" class="form-select" required>
+          <option value="" disabled selected>-- Select Job Type --</option>
+          <option value="Construction Manager">Construction Manager</option>
+          <option value="Project Manager">Project Manager</option>
+          <option value="Architect">Architect</option>
+          <option value="Water Engineer">Water Engineer</option>
+          <option value="Roads Engineer">Roads Engineer</option>
+          <option value="Structural Engineer">Structural Engineer</option>
+          <option value="Mechanical Engineer">Mechanical Engineer</option>
+          <option value="Contractor">Contractor</option>
+          <option value="Plumber">Plumber</option>
+          <option value="Fundi">Fundi</option>
+        </select>
+        <label for="location" class="form-label">Location (County):</label>
+        <input type="text" id="location" name="location" list="locationSuggestions" class="form-input" placeholder="Enter a county (e.g., Nairobi)" required />
+        <datalist id="locationSuggestions">
+          <!-- Populated dynamically by script.js -->
+        </datalist>
+      </form>
+    </div>
+    <div class="summary-text" id="summaryText">
       Select a job type and enter a location to find professionals.
     </div>
     <section class="results-section" id="searchResults">
       <p class="empty-state">No data to display.</p>
     </section>
   </main>
-
   <script src="{{ url_for('static', filename='script.js') }}"></script>
 </body>
 </html>
